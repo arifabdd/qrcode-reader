@@ -1,2 +1,4 @@
-# qrcode-reader
-Simple QrCode Reader
+# JavaScript Simple QrCode Reader
+Usage
+-----
+- 
