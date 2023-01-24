@@ -1,6 +1,4 @@
-# JavaScript Simple QrCode Reader
-
-## Lightweight & cross platform QR Code and Bar code scanning library for the web
+## Lightweight QR Code and Bar code scanning library for the web
 
 Use this lightweight library to easily / quickly integrate QR code, bar code, and other common code scanning capabilities to your web application.
 
@@ -106,4 +104,4 @@ Add this last script to your project for get data
 
 ```
 
-> This repository is based on the [html5-qrcode](https://github.com/mebjas/html5-qrcode) repository. Created for personal use and for those looking for a short way to use QrCode Reader.
+> This repository is based on the [html5-qrcode](https://github.com/mebjas/html5-qrcode) repository. Created for personal use and for those looking for a short way to use QR Code Reader.
