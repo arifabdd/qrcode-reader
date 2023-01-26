@@ -1,4 +1,4 @@
-## Lightweight QR Code and Bar code scanning library for the web
+## Simple QR Code and Bar code scanning library for the web
 
 Use this lightweight library to easily / quickly integrate QR code, bar code, and other common code scanning capabilities to your web application.
 
